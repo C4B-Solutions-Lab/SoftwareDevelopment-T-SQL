@@ -1,4 +1,4 @@
-# Dabrowski Software Development [ SQL ]
+# Dabrowski Software Development [ T-SQL ]
 
 - NEW:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
