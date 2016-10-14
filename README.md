@@ -16,6 +16,9 @@
 
 ## <strong>NEXT RELEASE [ scheduled for the 17th of January 2017 ]</strong>
 - FEATURES:
+ - COMPLEX OBJECTS WITH DIFFERENT NUMBER OF COLUMNS:
+ - *# 2+ complex objects under main object with the same nesting level can have different number of columns*
+ -
  - MULTIPLE INSTANCES:
  - *# running 1+ instances (with the same parameters) concurrently (from different sessions) on the same SQL Server.*
 -
