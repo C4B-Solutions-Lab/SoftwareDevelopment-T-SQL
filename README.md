@@ -4,7 +4,8 @@
 - NEW:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_3]:
  - *# v1.5.0 [ full details in the header of the procedure]*
-#
+ -
+-
 # <strong>PREVIOUS RELEASES</strong>
 - OLD:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
