@@ -11,7 +11,7 @@
 
 # 
 -
-# <small>NEXT RELEASE [ ]</small>
+## NEXT RELEASE [ ]
 
 # 
 -
