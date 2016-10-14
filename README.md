@@ -4,8 +4,10 @@
 - NEW:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_3]:
  - *# v1.5.0 [ full details in the header of the procedure]*
+ -
  - [T-SQL UTILITY FUNCTIONS]:
- - *# new functions [ full details in a file called T-SQL UTILITY FUNCTIONS.sql]* 
+ - *# new functions [ full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
+ -
 -
 # <strong>PREVIOUS RELEASES</strong>
 - OLD:
