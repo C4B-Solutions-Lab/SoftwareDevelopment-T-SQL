@@ -15,7 +15,9 @@
 -
 
 ### <strong>NEXT RELEASE [ scheduled for the 17th of January 2017 ]</strong>
-
+- FEATURES:
+ - CONCURRENCY:
+ - *# running algorithm in a concurrent manner, i.e. running the same set of input parameters (temporary tables) concurrently.*
 # 
 -
 # <strong>PREVIOUS RELEASES</strong>
