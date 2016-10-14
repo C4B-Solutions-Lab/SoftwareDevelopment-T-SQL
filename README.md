@@ -1,6 +1,6 @@
 # Dabrowski Software Development [ T-SQL ]
 
-- NEW:
+NEW:
 -
 -
 # <strong>PREVIOUS RELEASES</strong>
