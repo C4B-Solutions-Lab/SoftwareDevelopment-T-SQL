@@ -65,4 +65,4 @@ SELECT * FROM @JSON
   
 # This source code works from SQL SERVER 2008 version up to current one.
 
-# If you have any (negative/positive) feedback, do not hesitate to contact me @ contact@lukaszdabrowski.com
+# If you have any (negative/positive) feedback, do not hesitate to contact me @ lukkasz.dabrowski@gmail.com
