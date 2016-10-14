@@ -3,7 +3,6 @@
 # <strong>CURRENT RELEASE</strong>
 - NEW:
 -
--
 # <strong>PREVIOUS RELEASES</strong>
 - OLD:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
