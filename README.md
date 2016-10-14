@@ -9,7 +9,7 @@
  - *# new functions [ full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
  -
 -
-# <strong>NEXT RELEASE</strong> [ ]
+# <strong>CURRENT RELEASE</strong> [ scheduled for the 17th of October ]
 -
 # <strong>PREVIOUS RELEASES</strong>
 - OLD:
