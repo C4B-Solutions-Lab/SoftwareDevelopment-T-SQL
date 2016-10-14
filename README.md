@@ -24,7 +24,7 @@
 -
 #License: [MIT]:
  - [http://www.opensource.org/licenses/mit-license.php]
- -
+-
 #Description: [functions && procedures for day-to-day tasks]:
  - sending formmatted email with applied CSS2/3 rules stright from database,
  - converting query result to JSON format,
