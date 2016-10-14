@@ -1,7 +1,5 @@
 # Dabrowski Software Development [ T-SQL ]
 -
-# <strong>NEXT RELEASE</strong> [ ]
--
 # <strong>CURRENT RELEASE</strong> [ scheduled for the 17th of October ]
 - NEW:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_3]:
@@ -10,6 +8,8 @@
  - [T-SQL UTILITY FUNCTIONS]:
  - *# new functions [ full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
  -
+-
+# <strong>NEXT RELEASE</strong> [ ]
 -
 # <strong>PREVIOUS RELEASES</strong>
 - OLD:
