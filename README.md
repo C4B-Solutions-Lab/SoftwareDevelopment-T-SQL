@@ -18,6 +18,8 @@
 - FEATURES:
  - CONCURRENCY:
  - *# running algorithm in a concurrent manner, i.e. running the same set of input parameters (temporary tables) concurrently.*
+-
+
 # 
 -
 # <strong>PREVIOUS RELEASES</strong>
