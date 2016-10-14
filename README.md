@@ -14,7 +14,7 @@
 #
 -
 
-## NEXT RELEASE [ scheduled for the 17th of January 2017 ]
+### NEXT RELEASE [ scheduled for the 17th of January 2017 ]
 
 # 
 -
