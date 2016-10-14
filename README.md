@@ -21,10 +21,10 @@
  - *#inside function body replacement of '\t' -> CHAR(9)*
  - <strong>UPLOADED 2016-06-24 20:48:00 GMT +01:00 [BUG FIX]</strong>
  -
-
+-
 #License: [MIT]:
  - [http://www.opensource.org/licenses/mit-license.php]
-
+ -
 #Description: [functions && procedures for day-to-day tasks]:
  - sending formmatted email with applied CSS2/3 rules stright from database,
  - converting query result to JSON format,
