@@ -4,7 +4,7 @@
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
  - *#JSON properties to table columns mapping, full details in the header of the procedure.*
  - <strong>UPLOADED 2016-07-17 15:30:00 GMT +01:00 [BUG FIX]</strong>
- - 
+ -
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
   - *#full details inside procedure, and complex JSON object invocation example inside*
   - <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_2_complex_example.sql</strong> file in the repository's root directory.
