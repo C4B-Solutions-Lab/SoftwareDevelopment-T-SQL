@@ -16,8 +16,8 @@
 
 ## <strong>NEXT RELEASE [ scheduled for the 17th of January 2017 ]</strong>
 - FEATURES:
- - CONCURRENCY:
- - *# running 1+ instances concurrently (from different sessions).*
+ - MULTIPLE INSTANCES:
+ - *# running 1+ instances (with the same parameters) concurrently (from different sessions) on the same SQL Server.*
 -
 
 # 
