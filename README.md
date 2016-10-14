@@ -14,7 +14,7 @@
 #
 -
 
-### <strong>NEXT RELEASE [ scheduled for the 17th of January 2017 ]</strong>
+## <strong>NEXT RELEASE [ scheduled for the 17th of January 2017 ]</strong>
 - FEATURES:
  - CONCURRENCY:
  - *# running 1+ instances concurrently (from different sessions).*
@@ -22,7 +22,7 @@
 
 # 
 -
-# <strong>PREVIOUS RELEASES</strong>
+### <strong>PREVIOUS RELEASES</strong>
 - OLD:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
  - *#JSON properties to table columns mapping, full details in the header of the procedure.*
