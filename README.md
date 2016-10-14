@@ -1,6 +1,6 @@
 # Dabrowski Software Development [ T-SQL ]
 -
-# <strong>CURRENT RELEASE</strong> [ scheduled for the 17th of October ]
+# <strong>CURRENT RELEASE</strong> [ scheduled for the 17th of October 2016 ]
 - NEW:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_3]:
  - *# v1.5.0 [ full details in the header of the procedure]*
@@ -14,7 +14,7 @@
 #
 -
 
-## NEXT RELEASE [ ]
+## NEXT RELEASE [ scheduled for the 17th of January 2017 ]
 
 # 
 -
