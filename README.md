@@ -9,6 +9,7 @@
  - *# new functions [ full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
  -
 -
+-
 # PREVIOUS RELEASES 
 - OLD:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
