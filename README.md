@@ -1,7 +1,8 @@
 # Dabrowski Software Development [ T-SQL ]
 
 - NEW:
-
+-
+-
 - OLD:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
  - *#JSON properties to table columns mapping, full details in the header of the procedure.*
