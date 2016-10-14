@@ -6,7 +6,7 @@
  - *# v1.5.0 [ full details in the header of the procedure]*
  -
  - [T-SQL UTILITY FUNCTIONS]:
- - *# 3.0.0 [full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
+ - *# v3.0.0 [full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
 -
 
 # 
