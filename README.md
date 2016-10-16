@@ -1,12 +1,13 @@
 # Dabrowski Software Development [ T-SQL ]
 -
-# <strong>CURRENT RELEASE</strong> [ scheduled for the 17th of October 2016 ]
+# <strong>CURRENT RELEASE</strong> [ AVAILABLE ]
 - NEW:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_3]:
  - *# v1.5.0 [ full details in the header of the procedure]*
  -
  - [T-SQL UTILITY FUNCTIONS]:
  - *# v3.0.0 [full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
+  - <strong>UPLOADED 2016-10-16 21:09:00 GMT +01:00</strong>
 -
 
 # 
