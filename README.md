@@ -24,8 +24,8 @@
  - MULTIPLE INSTANCES:
  - *# running 1+ instances (with the same parameters) concurrently (from different sessions) on the same SQL Server.*
 -
-# 
-##All included in <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4</strong> procedure.
+#
+-
 #
 -
 ### <strong>PREVIOUS RELEASES</strong>
