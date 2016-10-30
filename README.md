@@ -5,7 +5,7 @@
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_3]:
  - *# v1.5.0 [ full details in the header of the procedure]*
  -
- - [FOUND BUG]: complex object anywhere in a hierarchy CANNOT HAVE only one property, because algorithm will fail. Has to have at least two properties. This bug exists in CONVERT_JSON_OBJECT_TO_SQL_TABLE_2 too. This bug will be fixed in the vNext. As for CONVERT_JSON_OBJECT_TO_SQL_TABLE_2 && CONVERT_JSON_OBJECT_TO_SQL_TABLE_3, the update will be available ASAP.
+ - [FOUND BUG]: complex object anywhere in a hierarchy CANNOT HAVE only one property, because algorithm will fail. Has to have at least two properties. This bug exists in CONVERT_JSON_OBJECT_TO_SQL_TABLE_2 too. This bug will be fixed in the vNext. As for CONVERT_JSON_OBJECT_TO_SQL_TABLE_2 && CURRENT RELEASE, the update will be available ASAP.
 -
 POSTED ON [2016-10-30 15:30:00 GMT +01:00]
  -
