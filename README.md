@@ -27,9 +27,24 @@ POSTED ON [2016-10-30 15:30:00 GMT +01:00]
  -
  - MULTIPLE INSTANCES:
  - *# running 1+ instances (with the same parameters) concurrently (from different sessions) on the same SQL Server.*
+ -
+ - due to some analysis there is NO 100% GUARANTEE to run the alghorithm from different sessions with EXACTLY THE SAME PARAMETERS without runtime throwing any errors.
+ -
+ - THEREFORE this version will include 2 procedures differing in types of tables used. This solution is aiming to maintain the convention:
+ -
+  - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4 [using temporary tables]
+  - 
+  - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P [using persistent tables]
+  -
+ - [T-SQL UTILITY FUNCTIONS]:
+ - *# v3.5.0 [dbo.CHECK_SQL_SERVER_VERSION]*
+ -  
 -
 #
-##All included in <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4</strong> procedure.
+##All included in stored procedures:
+##<strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4, CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P</strong>
+### &&
+##in a file called T-SQL UTILITY FUNCTIONS.sql
 #
 -
 
