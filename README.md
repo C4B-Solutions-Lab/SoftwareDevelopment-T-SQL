@@ -31,7 +31,7 @@ POSTED ON [2016-10-30 15:30:00 GMT +01:00]
  -
  - due to some analysis there is NO 100% GUARANTEE to run the alghorithm from different sessions with EXACTLY THE SAME PARAMETERS without runtime throwing any errors.
  -
- - following carried out tests proved that temporary tables cannot guarantee 100% accuracy of the output in some rare scenarios  <strong>[ UPDATE 2016-11-30 11:09:00 GMT +01:00 ]</strong>.  
+ - following carried out tests proved that temporary tables cannot guarantee 100% accuracy of the output in some rare scenarios  ***[ UPDATE 2016-11-30 11:09:00 GMT +01:00 ]***.  
  -
  - THEREFORE this version will include 1 procedure using persistent tables. This solution is aiming to maintain the convention:
  -
