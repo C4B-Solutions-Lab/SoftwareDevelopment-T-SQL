@@ -31,9 +31,11 @@ POSTED ON [2016-10-30 15:30:00 GMT +01:00]
  -
  - due to some analysis there is NO 100% GUARANTEE to run the alghorithm from different sessions with EXACTLY THE SAME PARAMETERS without runtime throwing any errors.
  -
- - THEREFORE this version will include 2 procedures differing in types of tables used. This solution is aiming to maintain the convention:
+ - following carried out tests proved that temporary tables cannot guarantee 100% accuracy of the output in some rare scenarios  <strong>[ UPDATE 2016-11-30 11:09:00 GMT +01:00 ]</strong>.  
  -
-  - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4 [using temporary tables]
+ - THEREFORE this version will include 1 procedure using persistent tables. This solution is aiming to maintain the convention:
+ -
+  - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4 [ABANDONED]
   - 
   - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P [using persistent tables]
   -
