@@ -7,14 +7,17 @@
  - *# v1.5.0 [ full details in the header of the procedure]*
  -
  - [FOUND BUG]: complex object anywhere in a hierarchy CANNOT HAVE only one property, because algorithm will fail. Has to have at least two properties. This bug exists in CONVERT_JSON_OBJECT_TO_SQL_TABLE_2 too. This bug will be fixed in the vNext. As for CONVERT_JSON_OBJECT_TO_SQL_TABLE_2 && CURRENT RELEASE, the update will be available ASAP.
--
-POSTED ON [2016-10-30 15:30:00 GMT +01:00]
+  - POSTED ON [2016-10-30 15:30:00 GMT +01:00]
  -
  - [T-SQL UTILITY FUNCTIONS]:
- - *# v3.0.0 [full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
+ - *# v4.0.0 [full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
  -
-- <strong>UPLOADED 2016-10-16 21:09:00 GMT +01:00</strong>
--
+ -
+ <strong>UPDATE RELEASE 2016-12-02 12:00:00 GMT +01:00 [ UNAVAILABLE YET ]</strong>
+ -
+ -
+ ##<strong>UPLOADED 2016-12-01 17:19:00 GMT +01:00</strong>
+
 
 # 
 -
