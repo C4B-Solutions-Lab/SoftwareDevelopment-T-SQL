@@ -13,10 +13,10 @@
  - *# v4.0.0 [full details in a file called T-SQL UTILITY FUNCTIONS.sql]*
  -
  -
- <strong>UPDATE RELEASE 2016-12-02 12:00:00 GMT +01:00 [ UNAVAILABLE YET ]</strong>
+ <strong>UPDATE RELEASE 2016-12-02 12:00:00 GMT +01:00 [ AVAILABLE ]</strong>
  -
  -
- ##<strong>UPLOADED 2016-12-01 17:19:00 GMT +01:00</strong>
+ ##<strong>UPLOADED 2016-12-02 09:23:00 GMT +01:00</strong>
 
 
 # 
