@@ -17,7 +17,8 @@
  -
  -
  ##<strong>UPLOADED 2016-12-02 09:23:00 GMT +01:00</strong>
-
+ -
+ Plase refer to README.txt inside the solution for guidelines.
 
 # 
 -
