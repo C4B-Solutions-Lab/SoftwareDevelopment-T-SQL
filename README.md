@@ -46,12 +46,12 @@
  - [T-SQL UTILITY FUNCTIONS]:
  - *# v3.5.0 [dbo.CHECK_SQL_SERVER_VERSION]*
  -  
+ # [ In a zip folder called Screenshots you can see performance comparison between v3 and v4 [January 2017 release] based on the same example ]
 -
 #
-##All included in stored procedures:
-##<strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4, CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P</strong>
+##All included in stored procedure: <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P</strong>
 ### &&
-##in a file called T-SQL UTILITY FUNCTIONS.sql
+##files called T-SQL UTILITY FUNCTIONS.sql and T-SQL UTILITY PROCEDURES.sql
 #
 -
 
