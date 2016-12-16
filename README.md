@@ -46,7 +46,7 @@
  - [T-SQL UTILITY FUNCTIONS]:
  - *# v3.5.0 [dbo.CHECK_SQL_SERVER_VERSION]*
  -  
- # ( In a zip folder called Screenshots you can see performance comparison between v3 and v4 [January 2017 release] based on the same example )
+ # ( In a zip folder called Screenshots you can see performance comparison between v3 and v4 [January 2017 release] based on the same example. vNext is 14x faster based on the Calc sreen )
 -
 #
 ##All included in stored procedure: <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P</strong>
