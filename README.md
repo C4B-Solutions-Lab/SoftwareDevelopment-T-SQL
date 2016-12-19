@@ -47,9 +47,9 @@
  - *# v4.5.0 [dbo.CHECK_SQL_SERVER_VERSION]*
  -  
  # In a zip folder called Screenshots you can see performance comparison - based on the same example - between:
-  - [v3] vs [v4] [17-01-2017 release]. vNext is 14x faster (Calc screen)
+  - [v3] vs [v4] [17-01-2017 release]. vNext is 14x faster (v3 vs v4 folder)
   -
-  - [v1] vs [v4] [17-01-2017 release]. vNext is 3x faster (Calc screen yet to come)
+  - [v1] vs [v4] [17-01-2017 release]. vNext is 3x faster (v1 vs v4 folder)
   -
   - test invocation included collection of 300 objects
 -
