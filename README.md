@@ -48,6 +48,8 @@
  -  
  # In a zip folder called Screenshots you can see performance comparison - based on the same example - between:
   - [v3] vs [v4] [17-01-2017 release]. vNext is 14x faster (Calc screen)
+  -
+  - [v1] vs [v4] [17-01-2017 release]. vNext is 3x faster (Calc screen yet to come)
 -
 #
 ##All included in stored procedure: <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P</strong>
