@@ -30,7 +30,7 @@
  - COMPLEX OBJECTS WITH DIFFERENT NUMBER OF COLUMNS:
  - *# 2+ complex objects under main object with the same nesting level can have different number of columns*
  -
- - MULTIPLE INSTANCES:
+ - MULTIPLE INSTANCES [ABANDONED]:
  - *# running 1+ instances (with the same parameters) concurrently (from different sessions) on the same SQL Server.*
  -
  - due to some analysis there is NO 100% GUARANTEE to run the alghorithm from different sessions with EXACTLY THE SAME PARAMETERS without runtime throwing any errors.
