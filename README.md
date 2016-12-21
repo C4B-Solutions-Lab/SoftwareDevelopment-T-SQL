@@ -52,6 +52,9 @@
   - [v1] vs [v4] [17-01-2017 release]. vNext is ~2.2x faster (v1 vs v4 folder)
   -
   - test invocation included collection of 300 objects
+  -
+ # In a zip folder called Videos you can see vNext [v4] performance in action.
+  - [v3] vs [v4] [17-01-2017 release]
 -
 #
 ##All included in stored procedure: <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P</strong>
