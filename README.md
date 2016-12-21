@@ -53,7 +53,7 @@
   -
   - test invocation included collection of 300 objects
   -
- # In a zip folder called Videos you can see vNext [v4] performance in action.
+ # In a zip folder called Videos you can see vNext [v4] performance in action (in 2 hours' time).
   - [v3] vs [v4] [17-01-2017 release]
 -
 #
