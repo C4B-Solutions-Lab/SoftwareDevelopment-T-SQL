@@ -1,8 +1,10 @@
+<img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png" />
 # Dabrowski Software Development [ T-SQL ]
-# JSON2SQL
+# JSON2SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
+# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
 #
 #
-# <strong>THIS RELEASE</strong> [ AVAILABLE ON 17-01-2017]
+# <strong>THIS RELEASE</strong> [ :one::seven:-:zero::one:-:two::zero::one::seven: :arrow_right: :clock3: ]&nbsp;&nbsp;&nbsp;[ right click&nbsp;&nbsp;:floppy_disk: ]
  - Complex objects with different structure
   - 2+ complex objects under main object with the same nesting level can have different number of properties
   - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P - this procedure
@@ -16,7 +18,7 @@
 #
 #
 #
-## <strong>FUTURE RELEASE [ ? ]</strong>
+## <strong>FUTURE RELEASE [ :interrobang: ]</strong>
 #
 #
 ### <strong>PAST RELEASES</strong>
@@ -65,8 +67,8 @@
 
 #
 # This email:
-  - lukkasz.dabrowski@gmail.com - is for yor feedback (NEGATIVE/positive)
+  - :email:&nbsp;lukkasz.dabrowski@gmail.com - is for yor feedback (NEGATIVE/positive)
 
 #
 # This license: [MIT]:
- - **[http://www.opensource.org/licenses/mit-license.php]()**
+ - :free:&nbsp;:book:&nbsp;**[http://www.opensource.org/licenses/mit-license.php]()**
