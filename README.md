@@ -2,7 +2,7 @@
 # JSON2SQL
 #
 #
-# <strong>THIS RELEASE</strong> [ AVAILABLE ON 17-01-2017 09:00:00 GMT +01:00]
+# <strong>THIS RELEASE</strong> [ AVAILABLE ON 17-01-2017]
  - Complex objects with different structure
   - 2+ complex objects under main object with the same nesting level can have different number of properties
   - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P - this procedure
