@@ -1,10 +1,11 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png" />
 # Dabrowski Software Development [ T-SQL ]
 # JSON2SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
+# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
+# <strong>THIS RELEASE</strong> [ :new: :arrow_right: ~ :clock9: ]&nbsp;&nbsp;&nbsp;[ right click / Save link as...&nbsp;&nbsp;[:floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/Dabrowski-Software-Development[vCurrent][v4] [17-01-2017].zip)] :arrow_heading_down:
 #
 #
-# <strong>THIS RELEASE</strong> [ :one::seven:-:zero::one:-:two::zero::one::seven: :arrow_right: :clock3: ]&nbsp;&nbsp;&nbsp;[ right click&nbsp;&nbsp;:floppy_disk: ]
+# Video How-To 4 part tutorial &nbsp;&nbsp;&nbsp;[ [1 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_1.avi)&nbsp;&nbsp;[2 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_2.avi)&nbsp;&nbsp;[3 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_3.avi)&nbsp;&nbsp;[4 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_4.avi)]&nbsp;&nbsp;:arrow_heading_down:
  - Complex objects with different structure
   - 2+ complex objects under main object with the same nesting level can have different number of properties
   - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P - this procedure
@@ -14,7 +15,9 @@
  - Is the replacement of v1, v2 & v3
  
 ##<strong>Please refer to README.txt file inside the solution for How-To instructions.</strong>
-### <strong>UPLOADED 2017-01-15 15:37:00 GMT +01:00</strong>
+### <strong>UPLOADED 2017-01-17 08:49:00 GMT +01:00</strong>
+- <strong>Dabrowski-Software-Development[vCurrent][v4] [17-01-2017].zip</strong>
+
 #
 #
 #
