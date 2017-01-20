@@ -2,7 +2,7 @@
 # Dabrowski Software Development [ T-SQL ]
 # JSON2SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
 # Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
-# <strong>RELEASED</strong> [ :new: :arrow_right: ~ :clock9: ]&nbsp;[ just click ('Save as' doesn't work)&nbsp;&nbsp;[:floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip)]:arrow_heading_down:
+# <strong>RELEASED</strong> [ :new: :arrow_right: ~ :clock9: ]&nbsp;[ just click &nbsp;&nbsp;[:floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip)]:arrow_heading_down:
 #
 #
 # How-To tutorial &nbsp;&nbsp;[right click/Save as... [1 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_1.avi)&nbsp;&nbsp;[2 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_2.avi)&nbsp;&nbsp;[3 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_3.avi)&nbsp;&nbsp;[4 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_4.avi)]&nbsp;&nbsp;:arrow_heading_down:
