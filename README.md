@@ -14,7 +14,7 @@
  - WINDOWS-like installation process for SQL Server scripts
  - Is the replacement of v1, v2 & v3
  
-##<strong>Please refer to README.txt file inside the solution for How-To instructions.</strong>
+## <strong>Please refer to README.txt file inside the solution for How-To instructions.</strong>
 ### <strong>UPLOADED 2017-01-17 08:49:00 GMT +01:00</strong>
 - <strong>Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip</strong>
 
