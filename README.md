@@ -22,7 +22,7 @@
 #
 #
 ## <strong>FUTURE RELEASE [ :interrobang: ]</strong>
-###> collection of complex any-structured JSON objects with:
+### > collection of complex any-structured JSON objects with:
     > any complex JSON object being of different size (different number of complex properties)
 #
 #
