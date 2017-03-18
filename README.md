@@ -1,8 +1,13 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png"></img>
 # Dabrowski Software Development [ T-SQL ]
 # JSON2SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
+#
+#
 # Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
-# <strong>RELEASED</strong> [ :new: :arrow_right: ~ :clock9: ]&nbsp;[ just click &nbsp;&nbsp;[:floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip)]:arrow_heading_down:
+# <strong>v4</strong> [ released ]&nbsp; just click FDD 1.44 &nbsp;&nbsp;[&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip)]:arrow_heading_down:
+#
+### <strong>LAST UPDATED 2017-03-18 10:33:00 GMT +01:00</strong>
+#
 #
 #
 # How-To tutorial &nbsp;&nbsp;[right click/Save as... [1 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_1.avi)&nbsp;&nbsp;[2 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_2.avi)&nbsp;&nbsp;[3 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_3.avi)&nbsp;&nbsp;[4 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_4.avi)]&nbsp;&nbsp;:arrow_heading_down:
@@ -17,7 +22,11 @@
 ## <strong>Please refer to README.txt file inside the solution for How-To instructions.</strong>
 ### <strong>UPLOADED 2017-01-17 08:49:00 GMT +01:00</strong>
 - <strong>Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip</strong>
-
+#
+#
+#
+# <strong>LAST MODIFIED: 2017-03-18 10:35:00 GMT +01:00</strong>
+#
 #
 #
 #
