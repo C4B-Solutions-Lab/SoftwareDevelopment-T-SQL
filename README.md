@@ -1,5 +1,5 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png"></img>
-# Dabrowski Software Development [ T-SQL ]
+# [ T-SQL ]
 # JSON2SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
 #
 #
@@ -26,7 +26,7 @@
 #
 #
 #
-# <strong>LAST MODIFIED: 2017-03-18 10:35:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2017-05-25 15:01:00 GMT +01:00</strong>
 #
 #
 #
