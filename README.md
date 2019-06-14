@@ -1,17 +1,17 @@
-<img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png"></img>
+<img src="https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png"></img>
 # [ T-SQL ]
 # JSON2SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
 # <strong>v4</strong> [ released ]
-## SSMS installer [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip)&nbsp;]&nbsp;:arrow_heading_down:
+## SSMS installer [&nbsp;[ :floppy_disk: ](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip)&nbsp;]&nbsp;:arrow_heading_down:
 #
 ### <strong>LAST UPDATED 2017-04-06 10:19:00 GMT +01:00</strong>
 #
 #
 #
-# How-To tutorial &nbsp;&nbsp;[right click/Save as... [1 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_1.avi)&nbsp;&nbsp;[2 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_2.avi)&nbsp;&nbsp;[3 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_3.avi)&nbsp;&nbsp;[4 :floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_4.avi)]&nbsp;&nbsp;:arrow_heading_down:
+# How-To tutorial &nbsp;&nbsp;[right click/Save as... [1 :floppy_disk: ](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_1.avi)&nbsp;&nbsp;[2 :floppy_disk: ](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_2.avi)&nbsp;&nbsp;[3 :floppy_disk: ](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_3.avi)&nbsp;&nbsp;[4 :floppy_disk: ](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/runControlPanelMgr___set_up_part_4.avi)]&nbsp;&nbsp;:arrow_heading_down:
  - Complex objects with different structure
   - 2+ complex objects under main object with the same nesting level can have different number of properties
   - CONVERT_JSON_OBJECT_TO_SQL_TABLE_4_P - this procedure
