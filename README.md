@@ -1,4 +1,4 @@
-<img src="https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png"></img>
+<img src="https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL/blob/master/C4B_Solutions_Lab.png"></img>
 # [ T-SQL ]
 # JSON2SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
 #
