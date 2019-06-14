@@ -24,13 +24,6 @@
 ### <strong>UPLOADED 2017-01-17 08:49:00 GMT +01:00</strong>
 - <strong>Dabrowski-Software-Development[vCurrent][v4][17-01-2017].zip</strong>
 #
-#
-#
-# <strong>LAST MODIFIED: 2017-05-25 15:01:00 GMT +01:00</strong>
-#
-#
-#
-#
 ## <strong>FUTURE RELEASE [ :interrobang: ]</strong>
 ### > collection of complex any-structured JSON objects with:
     > any complex JSON object being of different size (different number of complex properties)
@@ -87,3 +80,6 @@
 #
 # This license: [MIT]:
  - :free:&nbsp;:book:&nbsp;**[http://www.opensource.org/licenses/mit-license.php]()**
+
+#
+# <strong>LAST MODIFIED: 2017-05-25 15:01:00 GMT +01:00</strong>
